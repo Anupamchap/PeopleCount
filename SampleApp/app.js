@@ -46,6 +46,19 @@ app.post('/api/data', (req, res) => {
     });
 });
 
+app.delete('/api/data', (req, res) => {
+    // Perform delete operation
+    db.run(`DELETE FROM data`, function (err) {
+        if (err) {
+            console.error(err.message);
+            return res.status(500).json({ error: 'Internal Server Error' });
+        }
+
+        console.log(`All data has been deleted`);
+        res.status(200).json({ message: 'All data deleted successfully' });
+    });
+});
+
 app.get('/api/data', (req, res) => {
     // Fetch data from the database
     console.log('API CALLED')
