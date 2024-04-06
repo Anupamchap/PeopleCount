@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anupam\\source\\repos\\SampleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74E54FE5-6782-4722-9F16-67D6AFDA357D}|SampleApp\\SampleApp.njsproj|C:\\Users\\Anupam\\source\\repos\\SampleApp\\SampleApp\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74E54FE5-6782-4722-9F16-67D6AFDA357D}|SampleApp\\SampleApp.njsproj|solutionrelative:SampleApp\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E54FE5-6782-4722-9F16-67D6AFDA357D}|SampleApp\\SampleApp.njsproj|C:\\Users\\Anupam\\source\\repos\\SampleApp\\SampleApp\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{74E54FE5-6782-4722-9F16-67D6AFDA357D}|SampleApp\\SampleApp.njsproj|solutionrelative:SampleApp\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\Anupam\\source\\repos\\SampleApp\\SampleApp\\package.json",
+              "RelativeDocumentMoniker": "SampleApp\\package.json",
+              "ToolTip": "C:\\Users\\Anupam\\source\\repos\\SampleApp\\SampleApp\\package.json",
+              "RelativeToolTip": "SampleApp\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-04T12:45:17.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\Anupam\\source\\repos\\SampleApp\\SampleApp\\app.js",
+              "RelativeDocumentMoniker": "SampleApp\\app.js",
+              "ToolTip": "C:\\Users\\Anupam\\source\\repos\\SampleApp\\SampleApp\\app.js",
+              "RelativeToolTip": "SampleApp\\app.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-04T12:21:08.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
